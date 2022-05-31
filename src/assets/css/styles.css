@@ -1,0 +1,16 @@
+.login-container {
+    position: absolute;
+    height: 100vh;
+    background: url("../imgs/background.png");
+    box-sizing: border-box;
+    background-size: cover;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: auto;
+}
+
+body{
+    background: url("../imgs/background.png");
+}
